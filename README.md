@@ -11,14 +11,14 @@ necessary forms ensure a seamless and refined process. In short, the application
 * Sending CPT requests through the system.
 * Reviewing and responding to CPT requests at various levels.
 * Receive notifications based on request status.
-* Creation of questionnaires using pre-defined CPT types and templates.
-* Submit feedback regarding multiple types of documents (questionnaire, progress reports)
+* Creation of questionnaires using pre-defined questionnaire types and templates.
+* Submit feedback regarding multiple types of documents (questionnaires, progress reports, summaries)
 * Generation of progress reports between users.
-* Verification of data on multiple levels.
+* Verification of result data on multiple levels.
 
 ## Purpose
 * Market research on regional and national scales.
-* Utilization of flexible questionnaire templates.
+* Utilization of numerous flexible questionnaire templates.
 * Regulated and systemized request process.
-* Fast, high-quantity and instant data collection.
+* Fast, high-quantity and synchronized data collection.
 * Rapid and accurate summary generation.
