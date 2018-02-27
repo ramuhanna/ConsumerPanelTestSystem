@@ -22,8 +22,3 @@ necessary forms ensure a seamless and refined process. In short, the application
 * Regulated and systemized request process.
 * Fast, high-quantity and instant data collection.
 * Rapid and accurate summary generation.
-
-## Created With
-* Microsoft SQL Server Management Studio (Version 14.0)
-* Visual Studio (Version 15.5)
-* MVC 5.2.3.0
