@@ -1,4 +1,4 @@
-# ConsumerPanelTestSystem
+# Consumer Panel Test System
 
 ## Overview
 The Consumer Panel Test System is a Web-Based application geared towards creating an organized and systematic market research process. 
