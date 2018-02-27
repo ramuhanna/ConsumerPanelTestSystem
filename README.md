@@ -5,7 +5,7 @@ The Consumer Panel Test System is a Web-Based application geared towards creatin
 The authorization of specific users to submit requests, the multi-level approval process, as well as the automated creation of all 
 necessary forms ensure a seamless and refined process. In short, the application caters towards a hierarchal approach to market research, as well as rapid appraisal and decision making.
 
-## Functionalities
+## Functions
 * Analysis of quantitative data.
 * Ability to enter and keep records of results, and use them for analysis purposes.
 * Sending CPT requests through the system.
@@ -24,6 +24,6 @@ necessary forms ensure a seamless and refined process. In short, the application
 * Rapid and accurate summary generation.
 
 ## Created With
-* Microsoft SQL Server Management Studio (version 14.0)
+* Microsoft SQL Server Management Studio (Version 14.0)
 * Visual Studio (Version 15.5)
 * MVC 5.2.3.0
